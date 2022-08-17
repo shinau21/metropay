@@ -1,0 +1,31 @@
+{
+  "name": "metropay",
+  "version": "1.0.0",
+  "description": "MetroPaymment SMK NEGERI 1 KEJOBONG",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql": "^2.18.1",
+    "telegraf": "^4.8.6",
+    "telegram-keyboard": "^2.3.2",
+    "xendit-node": "^1.21.5"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smknkejobong/metropay.git"
+  },
+  "keywords": [
+    "MetroPay",
+    "Payment",
+    "Gateway"
+  ],
+  "author": "shinau21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smknkejobong/metropay/issues"
+  },
+  "homepage": "https://github.com/smknkejobong/metropay#readme"
+}
